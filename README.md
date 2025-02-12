@@ -1,6 +1,6 @@
 ### Hi, I'm Pranav 👋
 
-You can find me on [linkedln](https://www.linkedin.com/in/pranav-joshi-stem/) and [YouTube channel](https://www.youtube.com/@TheRealCanadianCoder/videos).
+You can find me on [linkedln](https://www.linkedin.com/in/pranav-joshi-stem/) and [YouTube](https://www.youtube.com/@TheRealCanadianCoder/videos).
 
 Also check out my personal [website](www.pranavjoshi.me).
 </br>
