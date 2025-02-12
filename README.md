@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hi, I'm Pranav 👋
 
-<!--
-**PranavJoshi-STEM/PranavJoshi-STEM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can find me on [linkedln](https://www.linkedin.com/in/pranav-joshi-stem/) and [YouTube channel](https://www.youtube.com/@TheRealCanadianCoder/videos).
 
-Here are some ideas to get you started:
+Also check out my personal [website](www.pranavjoshi.me).
+</br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Currently
+<ul>
+  <li>Sergeant at 132 Spitfire Air Cadets Squadron.</li>
+</ul>
+
+#### About Me 
+- 🔭 Going deep into AI with Robotics
+- 👩‍💻 I have a love programming and tinkering
+- 💬 Ask me about anything chess or Rubiks cube related
+- 🧗 Fun fact: I've made over $200 from investing in NVIDIA, Intel, and AMD.
