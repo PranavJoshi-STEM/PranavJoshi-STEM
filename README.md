@@ -7,11 +7,11 @@ Also check out my personal [website](www.pranavjoshi.me).
 
 #### Currently
 <ul>
-  <li>Sergeant at 132 Spitfire Air Cadets Squadron.</li>
+  <li>Flight Sergeant at 132 Spitfire Air Cadets Squadron.</li>
 </ul>
 
 #### About Me 
 - 🔭 Going deep into AI with Robotics
 - 👩‍💻 I have a love programming and tinkering
 - 💬 Ask me about anything chess or Rubiks cube related
-- 🧗 Fun fact: I've made over $200 from investing in NVIDIA, Intel, and AMD.
+- 🧗 Fun fact: I've made over $2000 from investing in NVIDIA, Intel, and AMD.
