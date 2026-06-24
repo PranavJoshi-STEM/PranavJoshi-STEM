@@ -9,7 +9,8 @@ Also check out my personal [website](www.pranavjoshi.me).
 <ul>
   <li>First year student at the University of Waterloo.</li>
   <li>Pursuing a Bachelor's of Mathematics in Mathematics/Business Administration.</li>
-  <li>Studying optimizations</li>
+</ul>
+
 
 #### About Me 
 - 🔭 Going deep into Optimization Research and AI
