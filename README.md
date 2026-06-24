@@ -7,12 +7,12 @@ Also check out my personal [website](www.pranavjoshi.me).
 
 #### Currently
 <ul>
-  <li>First year student at the University of Waterloo.</li>
-  <li>Pursuing a Bachelor's of Mathematics in Mathematics/Business Administration.</li>
+  <li>First year student at the University of Waterloo</li>
+  <li>Pursuing a Bachelor's of Mathematics in Mathematics/Business Administration</li>
 </ul>
 
 
 #### About Me 
 - 🔭 Going deep into Optimization Research and AI
 - 👩‍💻 I have a love programming and tinkering
-- 🧗 Fun fact: I made over $2000 from investing in NVIDIA, Intel, and AMD in grade 12 alone.
+- 🧗 Fun fact: I made over $2000 from investing in NVIDIA, Intel, and AMD in grade 12 alone
